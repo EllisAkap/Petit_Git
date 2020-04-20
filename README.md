@@ -1,3 +1,2 @@
-# Petit_Git
-Coding Club git
-t
+# Bot_Discord
+Coding Club Git
